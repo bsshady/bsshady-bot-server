@@ -108,7 +108,7 @@ export class BotService implements OnModuleInit {
             [
               {
                 text: 'Статистика чата',
-                url: 'https://skill-bot-client.vercel.app',
+                url: 'https://bsshady-bot-client.vercel.app/',
               },
             ],
           ],
